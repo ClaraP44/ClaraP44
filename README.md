@@ -2,13 +2,13 @@
 
 Je suis développeuse full stack avec une appétence particulière pour le front !
 
-# Compétences
+## Compétences
 
 - Langages web : Ruby, JavaScript, SQL, HTML/CSS
 - Framework : Ruby on Rails
 - Outils : Git, GitHub
 
-# Contact
+## Contact
 
 - E-mail : clara.pecot@hotmail.fr
 - LinkedIn : https://www.linkedin.com/in/clarapecot/
