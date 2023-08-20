@@ -5,8 +5,14 @@ Je suis développeuse full stack avec une appétence particulière pour le front
 # Compétences
 
 - Langages web : Ruby, JavaScript, SQL, HTML/CSS
-- Frameworks : Ruby on Rails
+- Framework : Ruby on Rails
 - Outils : Git, GitHub
+
+# Contact
+
+- E-mail : clara.pecot@hotmail.fr
+- LinkedIn : https://www.linkedin.com/in/clarapecot/
+
 
 <!--
 **ClaraP44/ClaraP44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
