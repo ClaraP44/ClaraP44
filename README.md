@@ -1,4 +1,6 @@
-### Hi there 👋
+### Bonjour, je suis Clara Pécot 👋
+
+Je suis développeuse fullstack avec une appétence particulière pour le front !
 
 <!--
 **ClaraP44/ClaraP44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
