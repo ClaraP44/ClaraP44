@@ -1,6 +1,6 @@
 # Bonjour, je suis Clara Pécot 👋
 
-Je suis développeuse full stack avec une appétence particulière pour le front !
+Je suis développeuse full stack avec une préférence pour le front-end !
 
 ## Compétences
 
