@@ -11,7 +11,7 @@ Actuellement, je développe mon site-portfolio avec Ruby on Rails.
 
 ## Contact
 
-- Site web : clarapecot.fr
+- Site web : [clarapecot.fr](https://www.clarapecot.fr/)
 - E-mail : clara.pecot44@gmail.com
 - LinkedIn : https://www.linkedin.com/in/clarapecot/
 
