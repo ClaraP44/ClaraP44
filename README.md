@@ -7,6 +7,7 @@ Actuellement, j'étudie le framework React.
 
 - Langages web : Ruby, JavaScript, SQL, HTML/CSS
 - Framework : Ruby on Rails
+- Database : SQLite
 - Outils : Git, GitHub, Figma
 
 ## Contact
