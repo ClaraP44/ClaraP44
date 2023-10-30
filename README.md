@@ -6,7 +6,7 @@ Actuellement, j'étudie le framework React.
 ## Compétences
 
 - Langages web : Ruby, JavaScript, SQL, HTML/CSS
-- Framework : Ruby on Rails
+- Frameworks : Ruby on Rails, Bootstrap
 - Database : SQLite
 - Outils : Git, GitHub, Figma
 
