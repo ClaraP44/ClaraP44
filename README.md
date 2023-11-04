@@ -14,7 +14,7 @@ Actuellement, j'étudie le framework React.
 
 - Site web : [clarapecot.fr](https://www.clarapecot.fr/)
 - E-mail : clara.pecot44@gmail.com
-- LinkedIn : https://www.linkedin.com/in/clarapecot/
+- LinkedIn : [clarapecot](https://www.linkedin.com/in/clarapecot/)
 
 
 <!--
