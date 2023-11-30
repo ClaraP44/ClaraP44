@@ -1,7 +1,7 @@
 # Bonjour, je suis Clara Pécot 👋
 
 Je suis développeuse full stack avec une préférence pour le front-end !
-Actuellement, j'étudie le framework React.
+Actuellement, j'apprends à utiliser le framework React.
 
 ## Compétences
 
