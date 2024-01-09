@@ -6,7 +6,7 @@ Actuellement, j'apprends à utiliser le framework React.
 ## Compétences
 
 - Langages web : Ruby, JavaScript, SQL, HTML/CSS
-- Frameworks : Ruby on Rails, Bootstrap
+- Frameworks : Ruby on Rails, Bootstrap, React
 - Database : SQLite
 - Outils : Git, GitHub, Figma
 
