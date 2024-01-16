@@ -7,7 +7,7 @@ Actuellement, j'apprends à utiliser le framework React.
 
 - Langages web : Ruby, JavaScript, SQL, HTML/CSS
 - Frameworks : Ruby on Rails, Bootstrap, React
-- Database : SQLite
+- Databases : PostgreSQL, SQLite
 - Outils : Git, GitHub, Figma
 
 ## Contact
