@@ -1,6 +1,6 @@
 # Bonjour, je suis Clara Pécot 👋
 
-Je suis développeuse full stack !
+Je suis développeuse full stack spécialisée en Ruby !
 Actuellement, j'apprends à utiliser le framework React.
 
 ## Compétences
