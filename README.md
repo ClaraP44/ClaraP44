@@ -1,12 +1,12 @@
 # Bonjour, je suis Clara Pécot 👋
 
 Je suis développeuse full stack spécialisée en Ruby !
-Actuellement, j'apprends à utiliser le framework React.
+Actuellement, je suis en formation pour me spécialiser sur Java.
 
 ## Compétences
 
 - Langages web : Ruby, JavaScript, SQL, HTML/CSS
-- Frameworks : Ruby on Rails, Bootstrap, React
+- Frameworks : Ruby on Rails, Bootstrap, (React en cours d'apprentissage)
 - Databases : PostgreSQL, SQLite
 - Outils : Git, GitHub, Visual Studio Code, Figma
 
