@@ -5,10 +5,10 @@ Actuellement, je suis en formation pour me spécialiser sur Java.
 
 ## Compétences
 
-- Langages web : Ruby, JavaScript, SQL, HTML/CSS
-- Frameworks : Ruby on Rails, Bootstrap, (React en cours d'apprentissage)
-- Databases : PostgreSQL, SQLite
-- Outils : Git, GitHub, Visual Studio Code, Figma
+- Langages web : Java, Ruby, JavaScript, SQL, HTML/CSS
+- Frameworks : Ruby on Rails, Bootstrap, (Angular en cours d'apprentissage)
+- Database : MySQL
+- Outils : Git, GitHub, Visual Studio Code, Spring, Eclipse, Figma
 
 ## Contact
 
