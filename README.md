@@ -1,7 +1,6 @@
 # Bonjour, je suis Clara Pécot 👋
 
-Je suis développeuse full stack spécialisée en Ruby !
-Actuellement, je suis en formation pour me spécialiser sur Java.
+Je suis développeuse full stack et actuellement en formation pour me spécialiser sur Java et Angular.
 
 ## Compétences
 
