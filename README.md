@@ -8,7 +8,7 @@ Actuellement, je suis en formation pour me spécialiser sur Java.
 - Langages web : Java, Ruby, JavaScript, SQL, HTML/CSS
 - Frameworks : Ruby on Rails, Bootstrap, (Angular en cours d'apprentissage)
 - Database : MySQL
-- Outils : Git, GitHub, Visual Studio Code, Spring, Eclipse, Figma
+- Outils : Git, GitHub, Visual Studio Code, Spring, Figma
 
 ## Contact
 
