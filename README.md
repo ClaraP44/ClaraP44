@@ -1,6 +1,6 @@
 # Bonjour, je suis Clara Pécot 👋
 
-Je suis développeuse full stack et actuellement en formation pour me spécialiser sur Java et Angular.
+Je suis développeuse full stack, actuellement en formation pour me spécialiser sur Java et Angular.
 
 ## Compétences
 
